@@ -1,0 +1,7 @@
+{
+  "name": "leos-music-shop-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
